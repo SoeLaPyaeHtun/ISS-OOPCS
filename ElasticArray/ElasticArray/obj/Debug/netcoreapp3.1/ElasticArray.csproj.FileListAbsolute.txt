@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/bin/Debug/netcoreapp3.1/ElasticArray.deps.json
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/bin/Debug/netcoreapp3.1/ElasticArray.runtimeconfig.json
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/bin/Debug/netcoreapp3.1/ElasticArray.runtimeconfig.dev.json
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/bin/Debug/netcoreapp3.1/ElasticArray.dll
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/bin/Debug/netcoreapp3.1/ElasticArray.pdb
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.AssemblyInfo.cs
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.dll
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.pdb
+/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.genruntimeconfig.cache
