@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/bin/Debug/netcoreapp3.1/GenieLamp.deps.json
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/bin/Debug/netcoreapp3.1/GenieLamp.runtimeconfig.json
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/bin/Debug/netcoreapp3.1/GenieLamp.runtimeconfig.dev.json
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/bin/Debug/netcoreapp3.1/GenieLamp.dll
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/bin/Debug/netcoreapp3.1/GenieLamp.pdb
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/obj/Debug/netcoreapp3.1/GenieLamp.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/obj/Debug/netcoreapp3.1/GenieLamp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/obj/Debug/netcoreapp3.1/GenieLamp.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/obj/Debug/netcoreapp3.1/GenieLamp.AssemblyInfo.cs
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/obj/Debug/netcoreapp3.1/GenieLamp.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/obj/Debug/netcoreapp3.1/GenieLamp.dll
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/obj/Debug/netcoreapp3.1/GenieLamp.pdb
+/Users/soelapyaehtun/OOPCS/GenieLamp/GenieLamp/obj/Debug/netcoreapp3.1/GenieLamp.genruntimeconfig.cache

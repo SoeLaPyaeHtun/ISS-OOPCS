@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C0D6A950-36F6-4292-BB57-7641ED38CE0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenieLamp/OnAndOff.cs">
+    <Files>
+      <File FileName="GenieLamp/Program.cs" Line="33" Column="33" />
+      <File FileName="GenieLamp/OnAndOff.cs" Line="29" Column="25" />
+      <File FileName="GenieLamp/Color.cs" Line="28" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenieLamp" expanded="True">
+            <Node name="GenieLamp" expanded="True">
+              <Node name="OnAndOff.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GenieLamp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

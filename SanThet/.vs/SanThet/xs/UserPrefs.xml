@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9D39C1C7-FE7C-4A47-9539-16DCBE3A61AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SanThet/Child.cs">
+    <Files>
+      <File FileName="SanThet/Program.cs" Line="9" Column="11" />
+      <File FileName="SanThet/Parent.cs" Line="9" Column="23" />
+      <File FileName="SanThet/Child.cs" Line="12" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SanThet" expanded="True">
+            <Node name="SanThet" expanded="True">
+              <Node name="Child.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SanThet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

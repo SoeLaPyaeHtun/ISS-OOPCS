@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/bin/Debug/netcoreapp3.1/SanThet.deps.json
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/bin/Debug/netcoreapp3.1/SanThet.runtimeconfig.json
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/bin/Debug/netcoreapp3.1/SanThet.runtimeconfig.dev.json
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/bin/Debug/netcoreapp3.1/SanThet.dll
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/bin/Debug/netcoreapp3.1/SanThet.pdb
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.AssemblyInfo.cs
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.dll
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.pdb
+/Users/soelapyaehtun/OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.genruntimeconfig.cache
