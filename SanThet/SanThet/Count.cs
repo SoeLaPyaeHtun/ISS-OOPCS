@@ -4,12 +4,11 @@ namespace SanThet
     public class Count
     {
         private int count;
-
         public Count(int count)
         {
             this.count = count;
-
         }
+
 
         public int getCount()
         {
@@ -19,13 +18,14 @@ namespace SanThet
         public void setCount(int count)
         {
             if (count == 0)
-                resetCount();
+                Reset();
             else
                 this.count = count;
         }
-        private void resetCount()
+
+        public void Reset()
         {
-            this.count = 0;
+            this.count = 0; 
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/soelapyaehtun/OOPCS/SanThet/SanThet/SanThet.csproj": {}
+    "/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/SanThet.csproj": {}
   },
   "projects": {
-    "/Users/soelapyaehtun/OOPCS/SanThet/SanThet/SanThet.csproj": {
+    "/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/SanThet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/soelapyaehtun/OOPCS/SanThet/SanThet/SanThet.csproj",
+        "projectUniqueName": "/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/SanThet.csproj",
         "projectName": "SanThet",
-        "projectPath": "/Users/soelapyaehtun/OOPCS/SanThet/SanThet/SanThet.csproj",
+        "projectPath": "/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/SanThet.csproj",
         "packagesPath": "/Users/soelapyaehtun/.nuget/packages/",
-        "outputPath": "/Users/soelapyaehtun/OOPCS/SanThet/SanThet/obj/",
+        "outputPath": "/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/soelapyaehtun/.config/NuGet/NuGet.Config"

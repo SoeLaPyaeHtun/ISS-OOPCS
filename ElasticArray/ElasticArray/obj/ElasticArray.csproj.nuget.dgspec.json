@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/ElasticArray.csproj": {}
+    "/Users/soelapyaehtun/NUS-OOPCS/ElasticArray/ElasticArray/ElasticArray.csproj": {}
   },
   "projects": {
-    "/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/ElasticArray.csproj": {
+    "/Users/soelapyaehtun/NUS-OOPCS/ElasticArray/ElasticArray/ElasticArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/ElasticArray.csproj",
+        "projectUniqueName": "/Users/soelapyaehtun/NUS-OOPCS/ElasticArray/ElasticArray/ElasticArray.csproj",
         "projectName": "ElasticArray",
-        "projectPath": "/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/ElasticArray.csproj",
+        "projectPath": "/Users/soelapyaehtun/NUS-OOPCS/ElasticArray/ElasticArray/ElasticArray.csproj",
         "packagesPath": "/Users/soelapyaehtun/.nuget/packages/",
-        "outputPath": "/Users/soelapyaehtun/Projects/ElasticArray/ElasticArray/obj/",
+        "outputPath": "/Users/soelapyaehtun/NUS-OOPCS/ElasticArray/ElasticArray/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/soelapyaehtun/.config/NuGet/NuGet.Config"
