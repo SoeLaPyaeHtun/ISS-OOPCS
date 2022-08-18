@@ -12,9 +12,6 @@ namespace ElasticArray
         private int findInt = 0;
         private int z = 0;
        
-
-
-
         
         ValidInput valid = new ValidInput();
 

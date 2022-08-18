@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/bin/Debug/netcoreapp3.1/ElasticArrayV2
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/bin/Debug/netcoreapp3.1/ElasticArrayV2.deps.json
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/bin/Debug/netcoreapp3.1/ElasticArrayV2.runtimeconfig.json
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/bin/Debug/netcoreapp3.1/ElasticArrayV2.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/bin/Debug/netcoreapp3.1/ElasticArrayV2.dll
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/bin/Debug/netcoreapp3.1/ElasticArrayV2.pdb
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/obj/Debug/netcoreapp3.1/ElasticArrayV2.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/obj/Debug/netcoreapp3.1/ElasticArrayV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/obj/Debug/netcoreapp3.1/ElasticArrayV2.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/obj/Debug/netcoreapp3.1/ElasticArrayV2.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/obj/Debug/netcoreapp3.1/ElasticArrayV2.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/obj/Debug/netcoreapp3.1/ElasticArrayV2.dll
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/obj/Debug/netcoreapp3.1/ElasticArrayV2.pdb
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArrayV2/ElasticArrayV2/obj/Debug/netcoreapp3.1/ElasticArrayV2.genruntimeconfig.cache

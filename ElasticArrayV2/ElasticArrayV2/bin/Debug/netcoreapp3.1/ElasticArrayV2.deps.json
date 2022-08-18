@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ElasticArrayV2/1.0.0": {
+        "runtime": {
+          "ElasticArrayV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElasticArrayV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

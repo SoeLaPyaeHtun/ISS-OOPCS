@@ -7,9 +7,13 @@ namespace SanThet
         static void Main(string[] args)
         {
 
-            GetAndSet myObj = new GetAndSet();
-            myObj.Name = "Liam";
-            Console.WriteLine(myObj.Name);
+            GetAndSet santhet = new GetAndSet();
+
+            Console.WriteLine(santhet.N);
+
+            santhet.N = 10;
+
+            Console.WriteLine(santhet.N);
 
 
         }

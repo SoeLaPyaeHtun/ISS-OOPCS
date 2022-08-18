@@ -24,3 +24,4 @@
 /Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.dll
 /Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.pdb
 /Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/obj/Debug/netcoreapp3.1/SanThet.genruntimeconfig.cache
+/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/bin/Debug/netcoreapp3.1/SanThet

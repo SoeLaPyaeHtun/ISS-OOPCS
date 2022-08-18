@@ -1,27 +1,28 @@
 ﻿<Properties StartupConfiguration="{FDF8ED68-8DD5-4511-9894-AF7A07C64258}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ElasticArray/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElasticArray/Tasks.cs">
     <Files>
-      <File FileName="ElasticArray/Program.cs" Line="28" Column="64" />
-      <File FileName="ElasticArray/tasks.cs" />
-      <File FileName="ElasticArray/ValidInput.cs" />
+      <File FileName="ElasticArray/Program.cs" Line="12" Column="1" />
+      <File FileName="ElasticArray/tasks.cs" Line="16" Column="45" />
+      <File FileName="ElasticArray/ValidInput.cs" Line="24" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ElasticArray" expanded="True">
-            <Node name="ElasticArray" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="ElasticArray" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.ElasticArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
 </Properties>

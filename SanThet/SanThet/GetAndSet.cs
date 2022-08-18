@@ -4,16 +4,16 @@ namespace SanThet
     public class GetAndSet
     {
 
-        private string name;  // field
-        public string Name    // property
-        {
-            get { return name; }
-            set { name = value; }
-        }
+        private int n;
 
 
-        public GetAndSet()
+        public int N
         {
+            get { return n;  }
+
+            set { n = value; }
         }
+
+      
     }
 }
