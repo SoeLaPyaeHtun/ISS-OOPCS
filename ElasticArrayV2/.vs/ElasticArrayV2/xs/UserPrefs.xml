@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{4F2443FF-C523-44F0-9BF7-D499CDE3D61D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ElasticArrayV2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElasticArrayV2/Tasks.cs">
+    <Files>
+      <File FileName="ElasticArrayV2/Program.cs" Line="16" Column="1" />
+      <File FileName="ElasticArrayV2/Tasks.cs" Line="64" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ElasticArrayV2" expanded="True">
+            <Node name="ElasticArrayV2" expanded="True">
+              <Node name="Tasks.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ElasticArrayV2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

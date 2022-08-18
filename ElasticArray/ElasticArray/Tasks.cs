@@ -111,7 +111,10 @@ namespace ElasticArray
         {
             Console.Write("Which Index do you want to remove : ");
             removeIndex = Convert.ToInt32(Console.ReadLine());
-            arrResult.RemoveAt(removeIndex);
+            if(removeIndex <= arrResult.Count)
+                Console.WriteLine($"Array has only {arrResult.Count} elements");
+            else
+                arrResult.RemoveAt(removeIndex);
         }
 
 

@@ -13,6 +13,9 @@ namespace ElasticArrayV2
 
         int[] arrResult = new int[0];
         ValidInput valid = new ValidInput();
+
+
+
         public Tasks()
         {
         }
@@ -123,7 +126,11 @@ namespace ElasticArrayV2
         {
             Console.Write("Which Index do you want to remove : ");
             int indexToRemove = Convert.ToInt32(Console.ReadLine());
-            arrResult = arrResult.Where((source, index) => index != indexToRemove).ToArray();
+
+            if(indexToRemove >= arrResult.Length)
+                Console.WriteLine($"Array has only {arrResult.Length} elements, So Max index number is {arrResult.Length - 1}");
+            else
+                arrResult = arrResult.Where((source, index) => index != indexToRemove).ToArray();
         }
 
 

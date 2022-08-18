@@ -24,3 +24,4 @@
 /Users/soelapyaehtun/NUS-OOPCS/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.dll
 /Users/soelapyaehtun/NUS-OOPCS/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.pdb
 /Users/soelapyaehtun/NUS-OOPCS/ElasticArray/ElasticArray/obj/Debug/netcoreapp3.1/ElasticArray.genruntimeconfig.cache
+/Users/soelapyaehtun/NUS-OOPCS/ElasticArray/ElasticArray/bin/Debug/netcoreapp3.1/ElasticArray

@@ -9,9 +9,7 @@ namespace SanThet
 
         public int N
         {
-            get { return n;  }
-
-            set { n = value; }
+            get; set;
         }
 
       
