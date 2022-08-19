@@ -7,10 +7,7 @@ namespace SanThet
         private int n;
 
 
-        public int N
-        {
-            get; set;
-        }
+        public int N{ get; set; }
 
       
     }

@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Linq;
+
 
 namespace ElasticArrayV2
 {
@@ -10,6 +10,12 @@ namespace ElasticArrayV2
         private int z = 0;
         private int i = 0;
         private int b = 0;
+
+        private int m = 0;
+       
+
+        private int temp = 0;
+       
 
         int[] arrResult = new int[0];
         ValidInput valid = new ValidInput();
@@ -104,15 +110,30 @@ namespace ElasticArrayV2
             Console.Write("Which Value do you want to remove : ");
             int removeValue = Convert.ToInt32(Console.ReadLine());
 
-            for (int y = 0; y < arrResult.Length; y++)
+            for(int u =0; u < arrResult.Length; u++)
             {
-                if (arrResult[y] == removeValue)
+                if (arrResult[u] == removeValue)
                 {
-                    Console.WriteLine($"{removeValue} at index {y} is removed");
-                    arrResult = arrResult.Where((source, index) => index != y).ToArray();
-                    b++;
+                    m++;
                 }
             }
+            for (int j = 0; j < m; j++)
+            {
+                for (int a = 0; a < arrResult.Length - 1; a++)
+                {
+                    if (arrResult[a] == removeValue)
+                    {
+                        temp = arrResult[a];
+                        arrResult[a] = arrResult[a + 1];
+                        arrResult[a + 1] = temp;
+                        b++;
+                    }
+
+                }
+            }
+            Array.Resize(ref arrResult, arrResult.Length - m);
+                
+
             if (b == 0)
                 Console.WriteLine($"Input Number {removeValue} Not Found in Array\n");
 
@@ -126,11 +147,20 @@ namespace ElasticArrayV2
         {
             Console.Write("Which Index do you want to remove : ");
             int indexToRemove = Convert.ToInt32(Console.ReadLine());
-
-            if(indexToRemove >= arrResult.Length)
+            int temp2 = arrResult[indexToRemove];
+            if (indexToRemove >= arrResult.Length)
                 Console.WriteLine($"Array has only {arrResult.Length} elements, So Max index number is {arrResult.Length - 1}");
             else
-                arrResult = arrResult.Where((source, index) => index != indexToRemove).ToArray();
+                for (int y = 0; y < arrResult.Length -1 ; y++)
+                {
+                    if (arrResult[y] == temp2) { 
+                        temp = arrResult[y];
+                        arrResult[y] = arrResult[y + 1];
+                        arrResult[y + 1] = temp;
+                        
+                    }
+                }
+            Array.Resize(ref arrResult, arrResult.Length - 1);
         }
 
 

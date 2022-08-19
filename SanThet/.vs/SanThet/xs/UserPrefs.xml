@@ -1,20 +1,17 @@
 ﻿<Properties StartupConfiguration="{9D39C1C7-FE7C-4A47-9539-16DCBE3A61AE}|Default">
-  <MonoDevelop.Ide.ItemProperties.SanThet PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SanThet/Overloading.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SanThet/Employee.cs">
     <Files>
-      <File FileName="SanThet/Program.cs" Line="14" Column="28" />
-      <File FileName="SanThet/GetAndSet.cs" Line="11" Column="1" />
-      <File FileName="SanThet/Overloading.cs" Line="7" Column="10" />
+      <File FileName="SanThet/Employee.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="SanThet/Program.cs" Line="7" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SanThet" expanded="True">
-            <Node name="SanThet" expanded="True" />
+            <Node name="SanThet" expanded="True">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -23,6 +20,18 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SanThet PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/ThisReferenceExample3.cs" relfile="SanThet/ThisReferenceExample3.cs" line="11" column="1" />
+      <Breakpoint file="/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/ThisReferenceExample3.cs" relfile="SanThet/ThisReferenceExample3.cs" line="16" column="1" />
+      <Breakpoint file="/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/ThisReferenceExample3.cs" relfile="SanThet/ThisReferenceExample3.cs" line="21" column="1" />
+      <Breakpoint file="/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/ThisReferenceExample3.cs" relfile="SanThet/ThisReferenceExample3.cs" line="22" column="1" />
+      <Breakpoint file="/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/Person.cs" relfile="SanThet/Person.cs" line="10" column="1" />
+      <Breakpoint file="/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/Person.cs" relfile="SanThet/Person.cs" line="17" column="1" />
+      <Breakpoint file="/Users/soelapyaehtun/NUS-OOPCS/SanThet/SanThet/Person.cs" relfile="SanThet/Person.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

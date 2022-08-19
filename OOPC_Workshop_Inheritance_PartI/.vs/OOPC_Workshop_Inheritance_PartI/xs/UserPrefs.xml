@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8F305EA4-48D7-4D2B-8151-AF95D8828458}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOPC__Workshop__Inheritance__PartI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPC_Workshop_Inheritance_PartI/Program.cs">
+    <Files>
+      <File FileName="OOPC_Workshop_Inheritance_PartI/Program.cs" Line="59" Column="31" />
+      <File FileName="OOPC_Workshop_Inheritance_PartI/Account.cs" Line="85" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPC_Workshop_Inheritance_PartI" expanded="True">
+            <Node name="OOPC_Workshop_Inheritance_PartI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
