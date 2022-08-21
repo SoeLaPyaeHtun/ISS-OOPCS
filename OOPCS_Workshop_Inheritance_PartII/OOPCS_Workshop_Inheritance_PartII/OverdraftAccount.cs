@@ -7,43 +7,44 @@ namespace OOPCS_Workshop_Inheritance_PartII
         public static double interestRNe = 6;
 
 
-        public OverdraftAccount(string accountNumber, string accountId, double balance)
-        {
-            this.accountNumber = accountNumber;
-            this.accountId = accountId;
-            this.balance = balance;
-        }
+        public OverdraftAccount(string Number, string Id, double balance) : base(Number, Id, balance) { }
 
-        public double CalculateInterest()
+
+
+        public override double CalculateInterest()
         {
-            
-            if ( 0 < balance )
+
+            if (0 < balance)
                 return (balance * (interestR / 100));
             else
                 return (balance * (interestRNe / 100));
         }
 
+
+
         public double CreditInterest()
         {
-            
+
             return balance += CalculateInterest();
         }
 
-        public Boolean Withdraw(double withdrawAmount)
+
+
+        public override Boolean Withdraw(double amount)
         {
-            if (withdrawAmount > balance)
-                return false;
+            if (amount < balance)
+                return base.Withdraw(amount);
             else
-                return true;
+                return false;
         }
 
 
 
         public override string ToString()
         {
-            return "(SavingsAccout) Account: " + "AccountNumber: " + this.accountNumber + "AccountId: " + this.accountId + "Balance: " + this.balance;
-        }
 
+            return "(SavingsAccout) Account: " + "AccountNumber: " + accountNumber + "AccountId: " + accountId + "Balance: " + balance;
+        }
     }
 }
 

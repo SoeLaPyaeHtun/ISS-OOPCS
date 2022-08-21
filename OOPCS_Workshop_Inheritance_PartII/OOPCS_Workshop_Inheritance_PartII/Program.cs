@@ -27,9 +27,9 @@ namespace OOPCS_Workshop_Inheritance_PartII
             Console.WriteLine();
 
 
-            // Test Current Accounts
+            //Test Current Accounts
 
-            CurrentAccount currentAccount = new CurrentAccount("S0000333", "S3333333B", 2000);
+           CurrentAccount currentAccount = new CurrentAccount("S0000333", "S3333333B", 2000);
             Console.WriteLine(currentAccount.ToString());
             Console.WriteLine("Interest: {0}", currentAccount.CalculateInterest());
             currentAccount.CreditInterest();
