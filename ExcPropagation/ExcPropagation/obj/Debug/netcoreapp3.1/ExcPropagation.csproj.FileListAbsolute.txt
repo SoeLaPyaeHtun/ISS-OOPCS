@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/bin/Debug/netcoreapp3.1/ExcPropagation
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/bin/Debug/netcoreapp3.1/ExcPropagation.deps.json
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/bin/Debug/netcoreapp3.1/ExcPropagation.runtimeconfig.json
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/bin/Debug/netcoreapp3.1/ExcPropagation.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/bin/Debug/netcoreapp3.1/ExcPropagation.dll
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/bin/Debug/netcoreapp3.1/ExcPropagation.pdb
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/obj/Debug/netcoreapp3.1/ExcPropagation.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/obj/Debug/netcoreapp3.1/ExcPropagation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/obj/Debug/netcoreapp3.1/ExcPropagation.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/obj/Debug/netcoreapp3.1/ExcPropagation.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/obj/Debug/netcoreapp3.1/ExcPropagation.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/obj/Debug/netcoreapp3.1/ExcPropagation.dll
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/obj/Debug/netcoreapp3.1/ExcPropagation.pdb
+/Users/soelapyaehtun/NUS-OOPCS/ExcPropagation/ExcPropagation/obj/Debug/netcoreapp3.1/ExcPropagation.genruntimeconfig.cache

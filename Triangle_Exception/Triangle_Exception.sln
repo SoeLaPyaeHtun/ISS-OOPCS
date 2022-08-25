@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle_Exception", "Triangle_Exception\Triangle_Exception.csproj", "{7D8704CA-6DE5-43C4-AE73-C33A6FD362E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8704CA-6DE5-43C4-AE73-C33A6FD362E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8704CA-6DE5-43C4-AE73-C33A6FD362E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8704CA-6DE5-43C4-AE73-C33A6FD362E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8704CA-6DE5-43C4-AE73-C33A6FD362E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3251E49-CDF7-40EC-8A75-6EB1D57F8362}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/obj/Debug/netcoreapp3.1/Triangle_Exception.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/obj/Debug/netcoreapp3.1/Triangle_Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/obj/Debug/netcoreapp3.1/Triangle_Exception.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/obj/Debug/netcoreapp3.1/Triangle_Exception.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/obj/Debug/netcoreapp3.1/Triangle_Exception.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/bin/Debug/netcoreapp3.1/Triangle_Exception
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/bin/Debug/netcoreapp3.1/Triangle_Exception.deps.json
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/bin/Debug/netcoreapp3.1/Triangle_Exception.runtimeconfig.json
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/bin/Debug/netcoreapp3.1/Triangle_Exception.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/bin/Debug/netcoreapp3.1/Triangle_Exception.dll
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/bin/Debug/netcoreapp3.1/Triangle_Exception.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/obj/Debug/netcoreapp3.1/Triangle_Exception.dll
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/obj/Debug/netcoreapp3.1/Triangle_Exception.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Triangle_Exception/Triangle_Exception/obj/Debug/netcoreapp3.1/Triangle_Exception.genruntimeconfig.cache
