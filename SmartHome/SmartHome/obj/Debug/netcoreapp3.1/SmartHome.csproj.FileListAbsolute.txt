@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/bin/Debug/netcoreapp3.1/SmartHome
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/bin/Debug/netcoreapp3.1/SmartHome.deps.json
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/bin/Debug/netcoreapp3.1/SmartHome.runtimeconfig.json
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/bin/Debug/netcoreapp3.1/SmartHome.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/bin/Debug/netcoreapp3.1/SmartHome.dll
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/bin/Debug/netcoreapp3.1/SmartHome.pdb
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/obj/Debug/netcoreapp3.1/SmartHome.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/obj/Debug/netcoreapp3.1/SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/obj/Debug/netcoreapp3.1/SmartHome.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/obj/Debug/netcoreapp3.1/SmartHome.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/obj/Debug/netcoreapp3.1/SmartHome.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/obj/Debug/netcoreapp3.1/SmartHome.dll
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/obj/Debug/netcoreapp3.1/SmartHome.pdb
+/Users/soelapyaehtun/NUS-OOPCS/SmartHome/SmartHome/obj/Debug/netcoreapp3.1/SmartHome.genruntimeconfig.cache

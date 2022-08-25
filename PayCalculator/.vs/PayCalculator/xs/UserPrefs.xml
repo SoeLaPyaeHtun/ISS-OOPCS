@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B6C83C8B-5DEC-48E6-B6BC-4FAA21A282F3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PayCalculator/Program.cs">
+    <Files>
+      <File FileName="PayCalculator/Program.cs" Line="23" Column="1" />
+      <File FileName="PayCalculator/Employee.cs" Line="21" Column="22" />
+      <File FileName="PayCalculator/SalariedEmployee.cs" Line="20" Column="32" />
+      <File FileName="PayCalculator/HourlyEmployee.cs" Line="25" Column="39" />
+      <File FileName="PayCalculator/PayCalculator.cs" Line="35" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PayCalculator" expanded="True">
+            <Node name="PayCalculator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PayCalculator PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/bin/Debug/netcoreapp3.1/Abstract_Bank
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/bin/Debug/netcoreapp3.1/Abstract_Bank.deps.json
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/bin/Debug/netcoreapp3.1/Abstract_Bank.runtimeconfig.json
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/bin/Debug/netcoreapp3.1/Abstract_Bank.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/bin/Debug/netcoreapp3.1/Abstract_Bank.dll
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/bin/Debug/netcoreapp3.1/Abstract_Bank.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/obj/Debug/netcoreapp3.1/Abstract_Bank.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/obj/Debug/netcoreapp3.1/Abstract_Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/obj/Debug/netcoreapp3.1/Abstract_Bank.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/obj/Debug/netcoreapp3.1/Abstract_Bank.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/obj/Debug/netcoreapp3.1/Abstract_Bank.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/obj/Debug/netcoreapp3.1/Abstract_Bank.dll
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/obj/Debug/netcoreapp3.1/Abstract_Bank.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Bank/Abstract_Bank/obj/Debug/netcoreapp3.1/Abstract_Bank.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/bin/Debug/netcoreapp3.1/Abstract_Shape
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/bin/Debug/netcoreapp3.1/Abstract_Shape.deps.json
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/bin/Debug/netcoreapp3.1/Abstract_Shape.runtimeconfig.json
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/bin/Debug/netcoreapp3.1/Abstract_Shape.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/bin/Debug/netcoreapp3.1/Abstract_Shape.dll
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/bin/Debug/netcoreapp3.1/Abstract_Shape.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/obj/Debug/netcoreapp3.1/Abstract_Shape.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/obj/Debug/netcoreapp3.1/Abstract_Shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/obj/Debug/netcoreapp3.1/Abstract_Shape.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/obj/Debug/netcoreapp3.1/Abstract_Shape.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/obj/Debug/netcoreapp3.1/Abstract_Shape.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/obj/Debug/netcoreapp3.1/Abstract_Shape.dll
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/obj/Debug/netcoreapp3.1/Abstract_Shape.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Abstract_Shape/Abstract_Shape/obj/Debug/netcoreapp3.1/Abstract_Shape.genruntimeconfig.cache
