@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/bin/Debug/netcoreapp3.1/Tour
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/bin/Debug/netcoreapp3.1/Tour.deps.json
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/bin/Debug/netcoreapp3.1/Tour.runtimeconfig.json
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/bin/Debug/netcoreapp3.1/Tour.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/bin/Debug/netcoreapp3.1/Tour.dll
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/bin/Debug/netcoreapp3.1/Tour.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/obj/Debug/netcoreapp3.1/Tour.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/obj/Debug/netcoreapp3.1/Tour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/obj/Debug/netcoreapp3.1/Tour.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/obj/Debug/netcoreapp3.1/Tour.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/obj/Debug/netcoreapp3.1/Tour.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/obj/Debug/netcoreapp3.1/Tour.dll
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/obj/Debug/netcoreapp3.1/Tour.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Tour/Tour/obj/Debug/netcoreapp3.1/Tour.genruntimeconfig.cache

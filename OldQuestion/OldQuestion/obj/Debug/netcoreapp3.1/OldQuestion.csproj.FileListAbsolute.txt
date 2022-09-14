@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/bin/Debug/netcoreapp3.1/OldQuestion
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/bin/Debug/netcoreapp3.1/OldQuestion.deps.json
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/bin/Debug/netcoreapp3.1/OldQuestion.runtimeconfig.json
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/bin/Debug/netcoreapp3.1/OldQuestion.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/bin/Debug/netcoreapp3.1/OldQuestion.dll
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/bin/Debug/netcoreapp3.1/OldQuestion.pdb
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/obj/Debug/netcoreapp3.1/OldQuestion.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/obj/Debug/netcoreapp3.1/OldQuestion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/obj/Debug/netcoreapp3.1/OldQuestion.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/obj/Debug/netcoreapp3.1/OldQuestion.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/obj/Debug/netcoreapp3.1/OldQuestion.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/obj/Debug/netcoreapp3.1/OldQuestion.dll
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/obj/Debug/netcoreapp3.1/OldQuestion.pdb
+/Users/soelapyaehtun/NUS-OOPCS/OldQuestion/OldQuestion/obj/Debug/netcoreapp3.1/OldQuestion.genruntimeconfig.cache

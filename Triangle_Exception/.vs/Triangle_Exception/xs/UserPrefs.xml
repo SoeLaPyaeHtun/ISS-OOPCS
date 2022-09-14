@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{7D8704CA-6DE5-43C4-AE73-C33A6FD362E8}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Triangle_Exception/Triangle.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Triangle_Exception/Program.cs">
     <Files>
-      <File FileName="Triangle_Exception/Program.cs" Line="19" Column="1" />
+      <File FileName="Triangle_Exception/Program.cs" Line="14" Column="32" />
       <File FileName="Triangle_Exception/BadTriangleException.cs" Line="7" Column="69" />
-      <File FileName="Triangle_Exception/Triangle.cs" Line="5" Column="6" />
+      <File FileName="Triangle_Exception/Triangle.cs" Line="16" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Triangle_Exception" expanded="True">
             <Node name="Triangle_Exception" expanded="True">
-              <Node name="Triangle.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -23,8 +24,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Triangle__Exception PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

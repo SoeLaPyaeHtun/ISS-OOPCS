@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/bin/Debug/netcoreapp3.1/Exception_ExOne
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/bin/Debug/netcoreapp3.1/Exception_ExOne.deps.json
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/bin/Debug/netcoreapp3.1/Exception_ExOne.runtimeconfig.json
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/bin/Debug/netcoreapp3.1/Exception_ExOne.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/bin/Debug/netcoreapp3.1/Exception_ExOne.dll
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/bin/Debug/netcoreapp3.1/Exception_ExOne.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/obj/Debug/netcoreapp3.1/Exception_ExOne.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/obj/Debug/netcoreapp3.1/Exception_ExOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/obj/Debug/netcoreapp3.1/Exception_ExOne.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/obj/Debug/netcoreapp3.1/Exception_ExOne.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/obj/Debug/netcoreapp3.1/Exception_ExOne.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/obj/Debug/netcoreapp3.1/Exception_ExOne.dll
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/obj/Debug/netcoreapp3.1/Exception_ExOne.pdb
+/Users/soelapyaehtun/NUS-OOPCS/Exception_ExOne/Exception_ExOne/obj/Debug/netcoreapp3.1/Exception_ExOne.genruntimeconfig.cache

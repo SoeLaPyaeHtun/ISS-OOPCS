@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{AEEE527D-B834-4E34-AC9C-66CA46DF3186}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OldQuestion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OldQuestion/Person.cs">
+    <Files>
+      <File FileName="OldQuestion/Program.cs" Line="26" Column="35" />
+      <File FileName="OldQuestion/Person.cs" Line="33" Column="42" />
+      <File FileName="OldQuestion/Employee.cs" Line="18" Column="10" />
+      <File FileName="OldQuestion/Faculty.cs" Line="21" Column="1" />
+      <File FileName="OldQuestion/Student.cs" Line="21" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OldQuestion" expanded="True">
+            <Node name="OldQuestion" expanded="True">
+              <Node name="PersonelRecords.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
